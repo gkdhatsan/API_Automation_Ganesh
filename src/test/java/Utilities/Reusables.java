@@ -14,7 +14,6 @@ import org.apache.http.auth.InvalidCredentialsException;
 
 import HTTPMethods.Methods;
 import io.restassured.RestAssured;
-import io.restassured.http.Cookies;
 import io.restassured.http.Header;
 import io.restassured.http.Headers;
 import io.restassured.module.jsv.JsonSchemaValidator;

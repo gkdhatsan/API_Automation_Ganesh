@@ -18,7 +18,6 @@ import Utilities.Reusables;
 import io.restassured.RestAssured;
 import io.restassured.http.Header;
 import io.restassured.http.Headers;
-import io.restassured.internal.RestAssuredResponseImpl;
 import io.restassured.module.jsv.JsonSchemaValidator;
 import io.restassured.path.json.JsonPath;
 import io.restassured.response.Response;
